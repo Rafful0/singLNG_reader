@@ -10,8 +10,6 @@ classificador do scikit-learn com essas gravações e depois soletra palavras pa
 a câmera. Nada está fixo em um alfabeto específico — grave ASL, Libras ou um
 conjunto de sinais que você inventou, o pipeline não se importa.
 
-<img width="962" height="568" alt="Screenshot 2025-09-27 at 9 24 59 AM" src="https://github.com/user-attachments/assets/b00099a1-a8a4-42b4-94d3-3934a424160b" />
-
 ## Início rápido
 
 1. Instale o Python 3.10 e crie um ambiente virtual (recomendado):
