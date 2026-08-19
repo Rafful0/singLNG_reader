@@ -9,8 +9,6 @@ classifier on those recordings, and then spell words at the camera. Nothing is
 hard-coded to a specific alphabet — record ASL, Libras or a set of signs you
 made up, the pipeline does not care.
 
-<img width="962" height="568" alt="Screenshot 2025-09-27 at 9 24 59 AM" src="https://github.com/user-attachments/assets/b00099a1-a8a4-42b4-94d3-3934a424160b" />
-
 ## Quickstart
 
 1. Install Python 3.10 and create a virtual environment (recommended):
