@@ -1,0 +1,4 @@
+mediapipe==0.10.21
+numpy==1.26.4
+scikit-learn==1.9.0
+joblib==1.5.3
