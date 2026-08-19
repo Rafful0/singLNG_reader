@@ -1,4 +1,9 @@
 # Gesture Recognizer Demo
+
+🌐 **Language / Idioma**
+* [English](README.md)
+* [Português](README.pt.md)
+
 Comecei a mexer com IA e ML faz pouco tempo e tive dificuldade para achar exemplos bons e recentes de uso do MediaPipe para
 reconhecer gestos com as mãos. Até a [documentação oficial do Google](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/python#live-stream) não me pareceu muito clara. Então, depois de pesquisar um pouco, aqui está um exemplo direto ao ponto de uso do MediaPipe que *espero* que qualquer um consiga acompanhar.
 
